@@ -36,7 +36,7 @@ $dist$ = $R_E\frac{sin(180^\circ-\alpha-(180^\circ-arcsin((1+\frac{h}{R_E})sin\a
 
 from 1.4 $\rightarrow\gamma$ = imaging angle + $90^\circ\Rightarrow$ imaging angle = $\gamma-90^\circ$
 
-$\therefore$  imaging angle = $90^\circ-arcsin((1+\frac{h}{R_E})sin\alpha)\leftarrow$ [click to see interactive graph of this equation to see how changing the altitude (h) affects the relationship between off nadir angle and imaging angle](https://www.desmos.com/calculator/fn1thtjpv3)
+$\therefore$  imaging angle = $90^\circ-arcsin((1+\frac{h}{R_E})sin\alpha)\leftarrow$ [click to see interactive graph of this equation to see how changing the altitude (h) affects the relationship between off nadir angle and imaging angle](https://www.desmos.com/calculator/50pcdsoe4d)
 ## 3.0 - Angle limitations
 ### 3.1 - Mathematical limitations of γ
 WHEN $\gamma\leq 90^\circ\Rightarrow($ imaging angle $\leq 0)\leftarrow$ IMPOSSIBLE (images cannot be taken pointing at or beyond the surface of the earth)
